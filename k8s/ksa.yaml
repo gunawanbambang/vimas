@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: flatfile-processor-ksa
+  namespace: composer-user-workloads
+  annotations:
+    iam.gke.io/gcp-service-account: flatfile-pod-processor-sa@elevate-505410.iam.gserviceaccount.com

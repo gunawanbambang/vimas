@@ -1,0 +1,22 @@
+# Terraform local state and modules
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfstate.*
+.terraform.tfstate.lock.info
+.terraform.lock.hcl
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# System and Editor files
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
