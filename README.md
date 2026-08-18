@@ -2,6 +2,8 @@
 
 This guide provides step-by-step instructions to deploy, configure, and validate the offloaded flat file decompression and decryption architecture using **`KubernetesPodOperator`** in **Cloud Composer Gen 2** (`asia-southeast2` / Jakarta).
 
+> 📊 **Executive Presentation**: Open [`docs/slides.html`](file:///usr/local/google/home/bambangg/vimas/docs/slides.html) in your browser for the full interactive slide deck with architecture diagrams, benchmark evidence, and FinOps cost breakdown.
+
 ---
 
 ## 1. Architecture Overview
